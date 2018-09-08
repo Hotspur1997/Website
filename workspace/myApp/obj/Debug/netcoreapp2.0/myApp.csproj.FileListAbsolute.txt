@@ -1,0 +1,10 @@
+/Users/hotspur1997/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/hotspur1997/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/hotspur1997/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/hotspur1997/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/hotspur1997/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/hotspur1997/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/hotspur1997/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/hotspur1997/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/hotspur1997/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/hotspur1997/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
